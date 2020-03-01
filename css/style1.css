@@ -1,6 +1,15 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
 body{
   margin: 0;
   padding: 0;
+  Font-size: 20px;
+	overflow-x: hidden;
+	color: white;
+  font-family: 'Oxanium', cursive;
 }
 header{
 	background-image:linear-gradient(rgba(0,0,0,-0.1),rgba(0,0,0,-0.1)), url('../images/back.png');
@@ -68,14 +77,15 @@ header{
   box-sizing: border-box;
   border-radius: 8px;
   text-align: center;
-  box-shadow: 0 0 50px #000000b3;
+  box-shadow: 0 0 50px #050000c0;
   font-family: 'Source Code Pro', monospace;
 
 
 }
 .contact-form h1{
   margin-top: 0;
-  font-weight: 200;
+  font-weight: 100;
+  font-family: 'Oxanium', cursive;
 }
 .txtb{
   border:1px solid white;

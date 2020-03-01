@@ -1,1 +1,1 @@
-# ahmedabadfoodera.github.com
+# ahmedabadfoodera.github.io
